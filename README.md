@@ -12,7 +12,7 @@ This repository contains marketing and product assets for TwinMOS.
 | `CoreX-Product-IMage-2.png` | TwinMOS CoreX product image |
 | `Corex-Artwork.jpg` | TwinMOS CoreX artwork |
 | `Enlarged-CoreX-1-600x600.png` | TwinMOS CoreX enlarged product image (600×600) |
-| `DDR5-VoltX-RGB-Duel-Channel-Image-1-600x600.png` | TwinMOS DDR5 VoltX RGB dual channel image (600×600) |
+| `DDR5-VoltX-RGB-Duel-Channel-Image-1-600x600.png` | TwinMOS DDR5 VoltX RGB dual-channel image (600×600) |
 | `ComputeX Thank you email header.png` | ComputeX 2025 thank-you email header |
 | `Computex25-Invite.jpeg` | ComputeX 2025 invitation image |
 
